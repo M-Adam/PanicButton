@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "PanicButton.Server": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
