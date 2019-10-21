@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanicButton.Client", "WpfApp2\PanicButton.Client.csproj", "{3924F180-AD35-45B8-92B0-3B556AC23145}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanicButton.Client", "PanicButton.Client\PanicButton.Client.csproj", "{3924F180-AD35-45B8-92B0-3B556AC23145}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanicButton.Broadcaster", "PanicButton.Broadcaster\PanicButton.Broadcaster.csproj", "{F9008519-FCA4-4DF1-B01D-926FBD0485E7}"
 EndProject
